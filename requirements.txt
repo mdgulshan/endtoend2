@@ -12,4 +12,4 @@ scikit-learn
 joblib 
 tox
 pytest
-
+sklearn 
